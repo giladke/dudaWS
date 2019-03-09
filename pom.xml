@@ -81,7 +81,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>similarWS</finalName>
+        <finalName>duda</finalName>
     </build>
 
 </project>
